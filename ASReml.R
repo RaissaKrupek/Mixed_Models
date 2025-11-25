@@ -1,7 +1,8 @@
 library(asreml)
-asreml.license.activate()
-# DGAF-AADG-BJDC-CGIF
-detach("package:asreml")
+# asreml.license.activate()
+# DGAF-AADG-BJDC-CGIF LAB
+# BIGJ-BBCE-GEAE-AAFB DEPTO
+# detach("package:asreml")
 
 library(ggplot2)
 library(tidyverse)
