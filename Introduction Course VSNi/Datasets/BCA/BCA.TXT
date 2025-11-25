@@ -1,0 +1,61 @@
+ID BLOCK DPLOT VARIETY FUNGICIDE BCA EMERGED DISEASED 
+ 1   1     1      HY        No  No     103      44 
+ 2   1     2      HY        No Yes      49      20 
+ 3   1     3      HY       Yes Yes      48      10 
+ 4   1     4      HY       Yes  No      45      10 
+ 5   1     5      RB        No  No      68      29 
+ 6   1     6      RB        No Yes      53      28 
+ 7   1     7      RB       Yes Yes      38       7 
+ 8   1     8      RB       Yes  No      48      10 
+ 9   1     9     Ren        No  No      80      23 
+10   1    10     Ren        No Yes      54      25 
+11   1    11     Ren       Yes Yes      33      11 
+12   1    12     Ren       Yes  No      66       7 
+13   2     1      HY        No  No      59      44 
+14   2     2      HY        No Yes      48      14 
+15   2     3      HY       Yes Yes      47       7 
+16   2     4      HY       Yes  No      72       8 
+17   2     5      RB        No  No      68      49 
+18   2     6      RB        No Yes      52      27 
+19   2     7      RB       Yes Yes      37      10 
+20   2     8      RB       Yes  No      47      10 
+21   2     9     Ren        No  No      93      46 
+22   2    10     Ren        No Yes      66      19 
+23   2    11     Ren       Yes Yes      43      12 
+24   2    12     Ren       Yes  No      74      14 
+25   3     1      HY        No  No      96      54 
+26   3     2      HY        No Yes      38      15 
+27   3     3      HY       Yes Yes      70       3 
+28   3     4      HY       Yes  No      56       9 
+29   3     5      RB        No  No      87      43 
+30   3     6      RB        No Yes      81      13 
+31   3     7      RB       Yes Yes      52      17 
+32   3     8      RB       Yes  No      75       6 
+33   3     9     Ren        No  No      91      39 
+34   3    10     Ren        No Yes      71      17 
+35   3    11     Ren       Yes Yes      67      12 
+36   3    12     Ren       Yes  No      79      12 
+37   4     1      HY        No  No      64      20 
+38   4     2      HY        No Yes      47      19 
+39   4     3      HY       Yes Yes      40       3 
+40   4     4      HY       Yes  No     104       3 
+41   4     5      RB        No  No      88      52 
+42   4     6      RB        No Yes      57      25 
+43   4     7      RB       Yes Yes      48       9 
+44   4     8      RB       Yes  No      74       1 
+45   4     9     Ren        No  No      84      43 
+46   4    10     Ren        No Yes      69      18 
+47   4    11     Ren       Yes Yes      75       1 
+48   4    12     Ren       Yes  No      86       3 
+49   5     1      HY        No  No      87      35 
+50   5     2      HY        No Yes      61      10 
+51   5     3      HY       Yes Yes      43       3 
+52   5     4      HY       Yes  No     103       3 
+53   5     5      RB        No  No      82      42 
+54   5     6      RB        No Yes      73      11 
+55   5     7      RB       Yes Yes      33      19 
+56   5     8      RB       Yes  No      87       7 
+57   5     9     Ren        No  No      91      10 
+58   5    10     Ren        No Yes      78      19 
+59   5    11     Ren       Yes Yes      67       3 
+60   5    12     Ren       Yes  No      95       8 
